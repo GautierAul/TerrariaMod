@@ -1,0 +1,5 @@
+C:\Users\gauti\Documents\My Games\Terraria\tModLoader\ModSources\tuto\obj\Debug\net6.0\tuto.csproj.AssemblyReference.cache
+C:\Users\gauti\Documents\My Games\Terraria\tModLoader\ModSources\tuto\obj\Debug\net6.0\tuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gauti\Documents\My Games\Terraria\tModLoader\ModSources\tuto\obj\Debug\net6.0\tuto.AssemblyInfoInputs.cache
+C:\Users\gauti\Documents\My Games\Terraria\tModLoader\ModSources\tuto\obj\Debug\net6.0\tuto.AssemblyInfo.cs
+C:\Users\gauti\Documents\My Games\Terraria\tModLoader\ModSources\tuto\obj\Debug\net6.0\tuto.csproj.CoreCompileInputs.cache

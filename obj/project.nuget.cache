@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CWrNoV5Ccu3sqOUzdWhsA5+wGyyZ5/xV/CD75WR4WjUUGA88WhIGZturyEuHWHdOkdlcPm9QfbQCaDSTSWX6iA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gauti\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tuto\\tuto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gauti\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
